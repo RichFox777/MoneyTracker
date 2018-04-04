@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">MoneyTrackerLF</string>
-    <string name="Textname">Новый текст!</string>
+    <string name="Title_name">Название</string>
     <string name="hello_world">Hello World! Это первый проект!</string>
     <string name="hello_world111">Hello World! Это другой проект!</string>
+    <string name="sum_name">Сумма</string>
 </resources>
