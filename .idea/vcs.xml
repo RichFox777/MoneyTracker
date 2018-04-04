@@ -3,13 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="C:/Program Files/Git/tmp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../GitRepository" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/git" vcs="Git" />
-    <mapping directory="I:\_Android_\AndroidStudioProjects\_LoftSchool\MoneyTracker\LS_MoneyTracker" vcs="Git" />
-    <mapping directory="I:\_Android_\AndroidStudioProjects\_LoftSchool\MoneyTracker\MoneyTracker" vcs="Git" />
-    <mapping directory="I:\_Android_\AndroidStudioProjects\_LoftSchool\MoneyTracker\MoneyTrackerRepo\MoneyTrackerRepo" vcs="Git" />
-    <mapping directory="I:\_Android_\AndroidStudioProjects\_LoftSchool\MoneyTracker\MoneyTracker\MoneyTracker" vcs="Git" />
   </component>
 </project>
